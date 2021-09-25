@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 20.241 sec <<< FAILURE!
+ValidateHeader(Academy.ValidationTitle)  Time elapsed: 0.066 sec  <<< FAILURE!
+java.lang.AssertionError: expected [An Academy to learn Everything about Testing] but found [AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:176)
+	at org.testng.Assert.assertEquals(Assert.java:186)
+	at Academy.ValidationTitle.ValidateHeader(ValidationTitle.java:46)
+
+basePageNavigation(Academy.ValidationTitle)  Time elapsed: 0.185 sec  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED COURSES123] but found [FEATURED COURSES]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:176)
+	at org.testng.Assert.assertEquals(Assert.java:186)
+	at Academy.ValidationTitle.basePageNavigation(ValidationTitle.java:36)
+

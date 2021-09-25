@@ -1,0 +1,8 @@
+18:40:50.906 [TestNG] INFO  Resources.base - Driver is initilized
+18:40:56.618 [TestNG] INFO  Resources.base - Successfully valided menu
+18:40:56.659 [TestNG] INFO  Resources.base - Navigate to homepage
+22:30:09.721 [TestNG] INFO  Resources.base - Driver is initilized
+22:30:14.899 [TestNG] INFO  Resources.base - Navigate to homepage
+22:30:15.020 [TestNG] INFO  Resources.base - Successfully valided menu
+22:31:59.686 [main] INFO  Resources.base - Driver is initilized
+22:32:01.663 [main] INFO  Resources.base - Navigate to homepage
