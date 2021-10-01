@@ -8,7 +8,7 @@ public class LandingPage {
 
 	public WebDriver driver;
 	
-private By sigining=	By.cssSelector("a[href*='sign_in']");
+private By sigining=By.cssSelector("a[href*='sign_in']");
 private By title = By.cssSelector(".text-center>h2");
 private By menu = By.cssSelector(".nav.navbar-nav.navbar-right");
 private By forgetPassword= By.cssSelector("a[href*='password/new']");
@@ -26,11 +26,12 @@ private By header= By.cssSelector("div[class*='video-banner'] h3");
 	return new ForgetPassword(driver);
   }
 
-public LoginPage getLogin()
+public WebElement getLogin()
   {
-	   driver.findElement(sigining).click();
+	  /* driver.findElement(sigining).click();
 	   LoginPage log= new LoginPage(driver);
-	   return log;
+	   return log;*/
+	return driver.findElement(sigining);
   }
 public WebElement gettitle()
 {

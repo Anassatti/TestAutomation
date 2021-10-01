@@ -38,8 +38,9 @@ public class HomePage extends base{
 
 		driver.get(pro.getProperty("url"));
 	LandingPage land= new LandingPage(driver);
-	LoginPage log= land.getLogin();
-//	LoginPage log= new LoginPage(driver);
+	 land.getLogin().click();
+	 
+	LoginPage log= new LoginPage(driver);
 	log.getEmail().sendKeys(Username);
 	log.getPassword().sendKeys(Password);
 	log.getSubmit().click();

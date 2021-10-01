@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="3.278" tests="6" errors="0" skipped="0" failures="2">
+<testsuite name="TestSuite" time="12.697" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.12+8-LTS-237"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.12\bin"/>
-    <property name="browser" value="chrome"/>
     <property name="maven.multiModuleProjectDirectory" value="C:\Users\Anas\eclipse-workspace\E2Eproject"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
@@ -44,7 +43,7 @@
     <property name="java.class.path" value="C:\Users\Anas\Desktop\Seleium\apache-maven-3.8.2\boot\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dbrowser=chrome"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-11.0.12"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -64,28 +63,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="Academy.AppTest" time="0.017"/>
-  <testcase name="basePageNavigation" classname="Academy.ValidationMenu" time="0.134"/>
-  <testcase name="ValidateHeader" classname="Academy.ValidationTitle" time="0.066">
-    <failure message="expected [An Academy to learn Everything about Testing] but found [AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING]" type="java.lang.AssertionError">java.lang.AssertionError: expected [An Academy to learn Everything about Testing] but found [AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:494)
-	at org.testng.Assert.assertEquals(Assert.java:123)
-	at org.testng.Assert.assertEquals(Assert.java:176)
-	at org.testng.Assert.assertEquals(Assert.java:186)
-	at Academy.ValidationTitle.ValidateHeader(ValidationTitle.java:46)
-</failure>
-  </testcase>
-  <testcase name="basePageNavigation" classname="Academy.HomePage" time="0.224"/>
-  <testcase name="basePageNavigation" classname="Academy.ValidationTitle" time="0.185">
-    <failure message="expected [FEATURED COURSES123] but found [FEATURED COURSES]" type="java.lang.AssertionError">java.lang.AssertionError: expected [FEATURED COURSES123] but found [FEATURED COURSES]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:494)
-	at org.testng.Assert.assertEquals(Assert.java:123)
-	at org.testng.Assert.assertEquals(Assert.java:176)
-	at org.testng.Assert.assertEquals(Assert.java:186)
-	at Academy.ValidationTitle.basePageNavigation(ValidationTitle.java:36)
-</failure>
-  </testcase>
-  <testcase name="basePageNavigation" classname="Academy.HomePage" time="2.652"/>
+  <testcase name="feature" classname="CucumberOptions.TestRunner" time="6.909"/>
+  <testcase name="feature" classname="CucumberOptions.TestRunner" time="5.788"/>
 </testsuite>
