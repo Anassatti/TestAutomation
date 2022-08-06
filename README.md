@@ -1,5 +1,5 @@
-# TestAutomation_Java
-This repo is for building test automation using Selenium and Java. This product includes building a complete framework.
+# TestAutomation_Solution
+This repo is for building common test automation using Selenium and Java. This product includes building a complete framework.
 
 **Tools & Technologyies**
 
