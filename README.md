@@ -13,3 +13,5 @@ This repo is for building common test automation solution using Selenium and Jav
 
 **Report**
 1. Extent HTML report
+
+![GL](https://user-images.githubusercontent.com/73906550/183278657-a10dd29f-6477-4516-a6e3-e151b0856bfa.jpg)
