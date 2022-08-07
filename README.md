@@ -9,7 +9,9 @@ This repo is for building common test automation solution using Selenium and Jav
 4. Cucumber 
 5. Testng
 6. Maven 
-6. Jenkins(CI): I integrated Github with Jenkins
+7. Jenkins(CI): I integrated Github with Jenkins
+8. Log4j for logging
+
 
 **Report**
 1. Extent HTML report
