@@ -7,6 +7,7 @@ Automation Testing is a software testing technique that performs using special a
 •	Performing tests that manual testers cannot
 •	Shortening the test execution period
 •	Increasing the test frequency/reducing the time required for test cycles
+
 **My Work**
 I designed common software automation product architecture, which is suitable for any kind of automation projects. This product contains framework, and integration points with project management, test management, configuration management.
 
