@@ -10,7 +10,7 @@ Automation Testing is a software testing technique that performs using special a
 **My Work**
 I designed common software automation product architecture, which is suitable for any kind of automation projects. This product contains framework, and integration points with project management, test management, configuration management.
 
-***product layers***
+***Product layers***
 
 **The Test Generation Layer**
                     Responsible from supports the manual design of test cases. It provides the means for designing test cases
