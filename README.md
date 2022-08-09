@@ -34,7 +34,7 @@ Component segregation: It is better to have more specific components than a gene
 Dependency inversion: The components of a TAS must depend on abstractions rather than on low level
 Details
 
-**Benefits of this solution**
+**Benefits**
 •	A significant reduction in maintenance costs
 •	A significant increase in software performance
 •	Faster time to market (TTM)
