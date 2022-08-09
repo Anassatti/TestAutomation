@@ -35,14 +35,17 @@ Dependency inversion: The components of a TAS must depend on abstractions rather
 Details
 
 **Benefits**
-•	A significant reduction in maintenance costs
-•	A significant increase in software performance
-•	Faster time to market (TTM)
-•	Increase effective communication& collaboration due to integration with project management, test management, configuration management tools
-•	Improving test efficiency
-•	Scalability
-•	Providing wider function coverage
-•	Reducing the total test cost
+
+1. A significant reduction in maintenance costs
+2. A significant increase in software performance
+3. Faster time to market (TTM)
+4. Increase effective communication& collaboration due to integration with project management, test management, configuration management tools
+5. Improving test efficiency
+6. Scalability
+7. Providing wider function coverage
+8. Reducing the total test cost
+
+
 
 **Application and Impact**
 The main goal of designing of this automation solution is to reduce the time consumed in building automation frameworks and help companies to integrate automation testing easily as part of their testing coverage. This product used to in web application automation project using below technologies into the different layers:
