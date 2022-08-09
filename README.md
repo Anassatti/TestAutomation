@@ -65,7 +65,7 @@ The main goal of designing of this automation solution is to reduce the time con
 6. Maven 
 7. Jenkins(CI): I integrated Github with Jenkins
 8. Log4j for logging
-9. Extent HTML report
+9. Reporting : Extent HTML report & Screenshot
 
 My invention provided new methods for faster handoffs, the higher performance of implementing software automation project and better returns on investment with respect to with respect to timing, costs, efforts, and benefits. 
 
