@@ -21,16 +21,22 @@ I designed common software automation solution, which is suitable for any kind o
 ***Product layers***
 
 **The Test Generation Layer**
-                    Responsible from supports the manual design of test cases. It provides the means for designing test cases
+                    Responsible from supports the manual design of test cases. It provides the means for designing test cases.
+                    
 **The Test Definition Layer**
- Responsible from supports the definition and implementation of test suites and/or test cases. It separates the test definition from the SUT and/or test system technologies and tools
+
+ Responsible from supports the definition and implementation of test suites and/or test cases. It separates the test definition from the SUT and/or test system technologies and tools.
+ 
 **The Test Execution Layer**
+
 Responsible from supports the execution of test cases and test logging. It provides a
 test execution tool to execute the selected tests automatically and a logging and reporting component.
+
 **The Test Adaptation Layer**
+
 Responsible from provides the necessary code to adapt the automated tests for the
 various components or interfaces of the SUT. It provides different adaptors for connecting to the
-SUT via APIs, protocols, services, and others
+SUT via APIs, protocols, services, and others.
 
 These layers comply with below principles that support easy development, evolution, maintenance:
 
@@ -68,6 +74,12 @@ My invention provided new methods for faster handoffs, the higher performance of
 ***The Solution Architecture***
 
 ![TestAutomationFrameworkUsingML](https://user-images.githubusercontent.com/73906550/183692912-deb70a44-6ea8-4dac-ab77-be1d567bbcb5.jpg)
+
+
+**Results**
+I tried this solution on many projects, which building framework using machine learning & deep learning, below diagram show where the integration of AI engine in this product.
+
+
 
 
 **Tools & Technologyies**
