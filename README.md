@@ -80,8 +80,7 @@ My invention provided new methods for faster handoffs, the higher performance of
 
 I tried this solution on many projects, which building framework using machine learning & deep learning, below diagram show where the integration of AI engine in this product. As we can see it become any easy for me using this architecture in integrate AI engine  between test definition and execution layers.
 
-![image](https://user-images.githubusercontent.com/73906550/190896488-ca0d71f8-666a-4f4a-a134-d304d2af37d7.png)
-
+![image](https://user-images.githubusercontent.com/73906550/190896520-083ed94d-3558-47af-bc01-643cd531baba.png)
 
 
 
