@@ -61,7 +61,7 @@ The main goal of designing of this automation solution is to reduce the time con
 
 My invention provided new methods for faster handoffs, the higher performance of implementing software automation project and better returns on investment with respect to with respect to timing, costs, efforts, and benefits. 
 
-***The Solution Architecture****
+***The Solution Architecture***
 
 ![TestAutomationFrameworkUsingML](https://user-images.githubusercontent.com/73906550/183692912-deb70a44-6ea8-4dac-ab77-be1d567bbcb5.jpg)
 
