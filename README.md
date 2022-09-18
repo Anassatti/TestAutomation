@@ -1,6 +1,9 @@
 # TestAutomation_Solution
 Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. 
 
+**Note***
+This solution is able to update and change all the time until to reach the optimal method
+
 **Benefits of automation testing**
 •	Providing wider function coverage
 •	Reducing the total test cost
@@ -55,6 +58,14 @@ The main goal of designing of this automation solution is to reduce the time con
 *Test Reporting- Extent HTML report
 *Test Adaptation Layer Maven
 
+
+My invention provided new methods for faster handoffs, the higher performance of implementing software automation project and better returns on investment with respect to with respect to timing, costs, efforts, and benefits. 
+
+***The Solution Architecture****
+
+![TestAutomationFrameworkUsingML](https://user-images.githubusercontent.com/73906550/183692912-deb70a44-6ea8-4dac-ab77-be1d567bbcb5.jpg)
+
+
 **Tools & Technologyies**
 
 1. Java
@@ -66,8 +77,3 @@ The main goal of designing of this automation solution is to reduce the time con
 7. Jenkins(CI): I integrated Github with Jenkins
 8. Log4j for logging
 9. Reporting : Extent HTML report & Screenshot
-
-My invention provided new methods for faster handoffs, the higher performance of implementing software automation project and better returns on investment with respect to with respect to timing, costs, efforts, and benefits. 
-
-
-![TestAutomationFrameworkUsingML](https://user-images.githubusercontent.com/73906550/183692912-deb70a44-6ea8-4dac-ab77-be1d567bbcb5.jpg)
