@@ -1,5 +1,9 @@
-# TestAutomation_Solution
+# Software Automation Solution (SAS)
+
+***Introduction***
+
 Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. 
+
 
 **Note***
 This solution is able to update and change all the time until to reach the optimal method
