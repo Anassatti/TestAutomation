@@ -11,11 +11,12 @@ This solution is undergoing enhancement and improvement all the time until to re
 
 **Benefits of automation testing**
 
-•	Providing wider function coverage
-•	Reducing the total test cost
-•	Performing tests that manual testers cannot
-•	Shortening the test execution period
-•	Increasing the test frequency/reducing the time required for test cycles
+
+1.	Providing wider function coverage
+2.	Reducing the total test cost
+3.	Performing tests that manual testers cannot
+4.	Shortening the test execution period
+5.	Increasing the test frequency/reducing the time required for test cycles
 
 **My Work**
 
