@@ -6,9 +6,11 @@ Automation Testing is a software testing technique that performs using special a
 
 
 **Note***
-This solution is able to update and change all the time until to reach the optimal method
+
+This solution is undergoing enhancement and improvement all the time until to reach the optimal method.
 
 **Benefits of automation testing**
+
 •	Providing wider function coverage
 •	Reducing the total test cost
 •	Performing tests that manual testers cannot
@@ -16,7 +18,8 @@ This solution is able to update and change all the time until to reach the optim
 •	Increasing the test frequency/reducing the time required for test cycles
 
 **My Work**
-I designed common software automation solution, which is suitable for any kind of automation projects. This product contains framework, and integration points with project management, test management, configuration management.
+
+I designed common software automation solution, which is suitable for any kind of automation projects. This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management.
 
 ***Product layers***
 
@@ -78,9 +81,9 @@ My invention provided new methods for faster handoffs, the higher performance of
 ![TestAutomationFrameworkUsingML](https://user-images.githubusercontent.com/73906550/183692912-deb70a44-6ea8-4dac-ab77-be1d567bbcb5.jpg)
 
 
-**Testing result of this Product**
+**Product Realizatoon**
 
-I tried this solution on many projects, which building framework using machine learning & deep learning, below diagram show where the integration of AI engine in this product. As we can see it become any easy for me using this architecture in integrate AI engine  between test definition and execution layers.
+I tried this solution on many projects like the project which building framework using machine learning & deep learning, below diagram show where the integration of AI engine in this product. As we can see it become any easy for me using this architecture in integrate AI engine  between test definition and execution layers.
 
 ![image](https://user-images.githubusercontent.com/73906550/190896520-083ed94d-3558-47af-bc01-643cd531baba.png)
 
