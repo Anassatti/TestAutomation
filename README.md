@@ -26,7 +26,7 @@ I designed common software automation solution, which is suitable for any kind o
 
 **The Test Generation Layer**
 
-                    Responsible from supports the manual design of test cases. It provides the means for designing test cases.
+ Responsible from supports the manual design of test cases. It provides the means for designing test cases.
                     
 **The Test Definition Layer**
 
