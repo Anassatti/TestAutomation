@@ -83,7 +83,7 @@ My invention provided new methods for faster handoffs, the higher performance of
 
 **Product Realizatoon**
 
-I tried this solution on many projects like the project which building framework using machine learning & deep learning, below diagram show where the integration of AI engine in this product. As we can see it become any easy for me using this architecture in integrate AI engine  between test definition and execution layers.
+I tried this solution on many projects like the project that I shared here, also in other project such as building framework using machine learning & deep learning, below diagram show where the integration of AI engine in this product. The product is working perfectly to add path way to build fast framework. As we can see it become any easy for me using this architecture in integrate AI engine  between test definition and execution layers.
 
 ![image](https://user-images.githubusercontent.com/73906550/190896520-083ed94d-3558-47af-bc01-643cd531baba.png)
 
@@ -101,3 +101,8 @@ I tried this solution on many projects like the project which building framework
 7. Jenkins(CI): I integrated Github with Jenkins
 8. Log4j for logging
 9. Reporting : Extent HTML report & Screenshot
+
+
+***Next Step***
+
+Build the project as library, which automtically will stepup everything in place
