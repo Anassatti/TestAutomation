@@ -81,6 +81,7 @@ Details
 7. Providing wider function coverage
 8. Reducing the total test cost
 9. Integration with Jira, which automatically in case there is a issue the solution will open Jira ticket with the ability to assign the ticket to specified person, all these happens without user interfere.
+10. Deep learning and machine learning integration, which comes by default with this architecture, which optionally if the TAE wants to activate it.
 
 ![image](https://user-images.githubusercontent.com/73906550/190955387-b47e61b0-0fa6-4959-adcd-f8bd37c161dd.png)
 
