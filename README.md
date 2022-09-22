@@ -2,7 +2,7 @@
 
 ***Introduction***
 
-Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. The purpose of this framework helps test automation engineer is to build a robust automation solution and focus only on writing code the rest will be taken care of by this solution. To design an efficient automation solution  TAE should have extensive experience in many areas, which impossible to master such as :
+Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. The purpose of this framework helps test automation engineer is to build a robust automation solution and focus only on writing code the rest will be taken care of by this solution. To design an efficient automation solution  TAE should have extensive experience in many areas, which is taking time to master such as :
 
 1. Technical experience.
 2. Knowledge of automation frameworks patterns
