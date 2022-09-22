@@ -2,7 +2,14 @@
 
 ***Introduction***
 
-Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. 
+Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. The purpose of this framework is help test automation engineer is to build roboust automation solution and focus only of writing code the rest will be taking care by this solution. To design a efficient automtion solution  TAE should have extensive experience in many area, which impossible to master such as :
+
+1. Technical experience.
+2. Knowledge of automation frameworks patterns
+3. Programming Language experience and skills
+4. Knowledge of how to integrate with Project management, test management, continuous integration tools
+
+This SAS solution brought up to make TAE avoid all these complications.
 
 
 **Note***
@@ -21,6 +28,11 @@ This solution is undergoing enhancement and improvement all the time until to re
 **My Work**
 
 I designed common software automation solution, which is suitable for any kind of automation projects. This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management.
+
+**Solution Workflow & Methodolgy**
+
+![image](https://user-images.githubusercontent.com/73906550/191713094-b01a6332-a8c5-44ad-a486-04597e287ca5.png)
+
 
 ***Product layers***
 
@@ -42,6 +54,10 @@ test execution tool to execute the selected tests automatically and a logging an
 Responsible from provides the necessary code to adapt the automated tests for the
 various components or interfaces of the SUT. It provides different adaptors for connecting to the
 SUT via APIs, protocols, services, and others.
+
+**Integration Layer**
+
+This layer specialist in the integration points between these workflow and test management tool, defect tools,and any kinds of integration to isolate what I called the keys from the core. For example, in Jira integration the user should has his own Jira username and password,so this can be change in the integration layer only and the framework will take care of the rest including attaching the screenshot on the ticket. Also, the can add the name of the person, which the ticket will be assigned to.
 
 These layers comply with below principles that support easy development, evolution, maintenance:
 
