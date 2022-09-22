@@ -98,7 +98,8 @@ My invention provided new methods for faster handoffs, the higher performance of
 
 ***The Solution Architecture***
 
-![TestAutomationFrameworkUsingML](https://user-images.githubusercontent.com/73906550/183692912-deb70a44-6ea8-4dac-ab77-be1d567bbcb5.jpg)
+![image](https://user-images.githubusercontent.com/73906550/191803822-92c67b2c-6ccd-4b3e-b845-32ec6107a4e7.png)
+
 
 
 **Product Realizatoon**
