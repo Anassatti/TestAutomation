@@ -132,4 +132,4 @@ I tried this solution on many projects like the project that I shared here, also
 
 ***Next Step***
 
-Build the project as library, which automtically will stepup everything in place
+Build a library, which automtically will include ML&DL and imports all the required files.
