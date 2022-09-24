@@ -29,7 +29,7 @@ This SAS solution was brought up to make TAE avoid all these complications.
 
 **My Work**
 
-I designed common software automation solution library, which is suitable for any kind of automation projects mobile, web application,... This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management. The solution will avaliable in the image of JAR file, so TAE or developer only extract it, and the library will setup all the basics. It advisibale to use it with Maven. The solution will be setup a complete framework, which make the life of TAE, developer easir. Below is example of Ecommerce project, which the library setup structure that highlighted in red.
+I designed common software automation solution library, which is suitable for any kind of automation projects mobile, web application,... This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management. The solution will avaliable in the image of JAR file, so TAE or developer only extract it, and the library will be setup all the basics. It advisibale to use it with Maven. The solution will be setup a complete framework, which make the life of TAE, developer easir. Below is example of Ecommerce project, which the library setup structure that highlighted in red.
 
 ![image](https://user-images.githubusercontent.com/73906550/192098339-bdb913fb-4680-4357-ae09-c7173c4bc95c.png)
 
