@@ -1,8 +1,23 @@
 # Software Automation Solution (SAS)
 
+**Note***
+
+This solution is undergoing enhancement and improvement all the time until to reach the optimal method.
+
 ***Introduction***
 
-Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. The purpose of this framework helps test automation engineer is to build a robust automation solution and focus only on writing code the rest will be taken care of by this solution. To design an efficient automation solution  TAE should have extensive experience in many areas, which is taking time to master such as :
+Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite. The purpose of this framework helps test automation engineer is to build a robust automation solution and focus only on writing code the rest will be taken care of by this solution.
+
+**Benefits of automation testing**
+
+1.	Providing wider function coverage
+2.	Reducing the total test cost
+3.	Performing tests that manual testers cannot
+4.	Shortening the test execution period
+5.	Increasing the test frequency/reducing the time required for test cycles
+
+
+To design an efficient automation solution  TAE should have extensive experience in many areas, which is taking time to master such as :
 
 1. Technical experience.
 2. Knowledge of automation frameworks patterns
@@ -12,26 +27,15 @@ Automation Testing is a software testing technique that performs using special a
 
 This SAS solution was brought up to make TAE avoid all these complications.
 
-
-
-**Note***
-
-This solution is undergoing enhancement and improvement all the time until to reach the optimal method.
-
-**Benefits of automation testing**
-
-
-1.	Providing wider function coverage
-2.	Reducing the total test cost
-3.	Performing tests that manual testers cannot
-4.	Shortening the test execution period
-5.	Increasing the test frequency/reducing the time required for test cycles
-
 **My Work**
 
-I designed common software automation solution, which is suitable for any kind of automation projects. This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management.
+I designed common software automation solution library, which is suitable for any kind of automation projects mobile, web application,... This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management. The solution will avaliable in the image of JAR file, so TAE or developer only extract it, and the library will setup all the basics. It advisibale to use it with Maven. The solution will be setup a complete framework, which make the life of TAE, developer easir. Below is example of Ecommerce project, which the library setup structure that highlighted in red.
 
-**Solution Workflow & Methodolgy**
+![image](https://user-images.githubusercontent.com/73906550/192098339-bdb913fb-4680-4357-ae09-c7173c4bc95c.png)
+
+
+
+**Solution high level Workflow & Methodolgy**
 
 ![image](https://user-images.githubusercontent.com/73906550/191713094-b01a6332-a8c5-44ad-a486-04597e287ca5.png)
 
