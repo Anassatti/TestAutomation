@@ -29,13 +29,14 @@ This SAS solution was brought up to make TAE avoid all these complications.
 
 **My Work**
 
-I designed common software automation solution library, which is suitable for any kind of automation projects mobile, web application,... This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management. The solution will avaliable in the image of .bat file, so TAE or developer only extract it, and the library will be setup all the the framework structure. The solution is pretty useful for the TAE beginners and even advanced skills TAE because the first step to build roboust and mature automation solution required well build TAF automation framework, and my help come here no need overthinking, spend housr of searching about the suitable framework structure I brought to you smiple framework structure.
+I designed common software automation solution library, which is suitable for any kind of automation projects mobile, web application,... This product contains framework, and integration points with project management, test management(Jira,DevOps), configuration management. The solution will avaliable in the image of .bat file, so TAE or developer only extract it, and the library will be setup all the the framework structure. The solution is pretty useful for the TAE beginners and even advanced skills TAE because the first step to build roboust and mature automation solution required well build TAF automation framework, and my help come here no need overthinking, spend housr of searching about the suitable framework structure I brought to you smiple framework structure. Below is real example of using this solution
 
-![image](https://user-images.githubusercontent.com/73906550/192098339-bdb913fb-4680-4357-ae09-c7173c4bc95c.png)
+![image](https://user-images.githubusercontent.com/73906550/192137214-f1cc2ba2-674f-420c-badf-02d88c88f707.png)
 
 
 
-**Solution high level Workflow & Methodolgy**
+
+**Solution Workflow & Methodolgy**
 
 ![image](https://user-images.githubusercontent.com/73906550/191713094-b01a6332-a8c5-44ad-a486-04597e287ca5.png)
 
@@ -77,15 +78,16 @@ Details
 **Benefits**
 
 1. A significant reduction in maintenance costs
-2. A significant increase in software performance
-3. Faster time to market (TTM)
-4. Increase effective communication& collaboration due to integration with project management, test management, configuration management tools
-5. Improving test efficiency
-6. Scalability
-7. Providing wider function coverage
-8. Reducing the total test cost
-9. Integration with Jira, which automatically in case there is a issue the solution will open Jira ticket with the ability to assign the ticket to specified person, all these happens without user interfere.
-10. Deep learning and machine learning integration, which comes by default with this architecture, which optionally if the TAE wants to activate it.
+2. A significant reduction in setup TAF(test automation framework)
+3. A significant increase in software performance
+4. Faster time to market (TTM)
+5. Increase effective communication& collaboration due to integration with project management, test management, configuration management tools
+6. Improving test efficiency
+7. Scalability
+8. Providing wider function coverage
+9. Reducing the total test cost
+10. Integration with Jira, which automatically in case there is a issue the solution will open Jira ticket with the ability to assign the ticket to specified person, all these happens without user interfere.
+11. Deep learning and machine learning integration, which comes by default with this architecture, which optionally if the TAE wants to activate it.
 
 ![image](https://user-images.githubusercontent.com/73906550/190955387-b47e61b0-0fa6-4959-adcd-f8bd37c161dd.png)
 
@@ -128,8 +130,9 @@ I tried this solution on many projects like the project that I shared here, also
 7. Jenkins(CI): I integrated Github with Jenkins
 8. Log4j for logging
 9. Reporting : Extent HTML report & Screenshot
+10. BAT
 
 
 ***Next Step***
 
-Build a library, which automtically will include ML&DL and imports all the required files.
+ Include ML&DL as part of the solution
