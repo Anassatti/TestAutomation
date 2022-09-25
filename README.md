@@ -117,7 +117,18 @@ I tried this solution on many projects like the project that I shared here, also
 
 
 
+**How to use the solution**
 
+1. Open Eclipse
+2. Click on File
+3. Click on new 
+4. Click on project
+5. Choose Maven project, finish creating Maven project
+
+6. Run the SAS library, which .BAt by dobule click on te library 
+7. Follow the instruction 
+
+Conguratulations, well done your framework is ready.
 
 **Tools & Technologyies**
 
@@ -131,8 +142,10 @@ I tried this solution on many projects like the project that I shared here, also
 8. Log4j for logging
 9. Reporting : Extent HTML report & Screenshot
 10. BAT
+11. Eclipse
 
 
 ***Next Step***
 
- Include ML&DL as part of the solution
+ 1. Include ML&DL as part of the solution
+ 2. Include more function into the library.
