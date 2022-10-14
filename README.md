@@ -146,6 +146,6 @@ Conguratulations, well done your framework is ready.
 
 
 ***Next Step***
-
- 1. Include ML&DL as part of the solution
- 2. Include more function into the library.
+1. Expand the tool to setup Page Object design framework with all respective  subclasses
+2. Include ML&DL as part of the solution
+3. Include more function into the library.
